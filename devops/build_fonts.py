@@ -60,4 +60,4 @@ for namelist in used_namelists:
     dst = os.path.join(output_dir, namelist)
     if os.path.exists(src):
         shutil.copy(src, dst)
-        print(f"📄 Copied {namelist} to output directory")
+        print(f"✅ Copied {namelist} to output directory")
