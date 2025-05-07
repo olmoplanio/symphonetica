@@ -1,0 +1,27 @@
+0000-007F  # Latin: Basic Latin
+0080-00FF  # Latin: Latin-1 Supplement
+0100-017F  # Latin: Latin Extended-A
+0180-024F  # Latin: Latin Extended-B
+0250-02AF  # IPA Extensions: Full-size letters used in the International Phonetic Alphabet
+02B0-02FF  # Spacing Modifier Letters: Diacritics and phonetic marks
+0300-036F  # Combining Diacritical Marks: Diacritics for phonetics and orthographies
+0370-03FF  # Greek and Coptic: Greek and basic Coptic letters
+0400-04FF  # Cyrillic: Core Cyrillic block
+0500-052F  # Cyrillic Supplement: Additional Cyrillic letters for various languages
+1C80-1C8F  # Cyrillic Extended-C: Historical Cyrillic letters
+1D00-1D7F  # Phonetic Extensions: Additional phonetic symbols
+1D80-1DBF  # Phonetic Extensions Supplement: Supplementary phonetic symbols
+1E00-1EFF  # Latin Extended Additional
+1E030-1E08F  # Cyrillic Extended-D: Additional historical Cyrillic characters
+1F00-1FFF  # Greek Extended: Polytonic Greek characters
+2000-2BFF #Symbols
+2C80-2CFF  # Coptic: Dedicated Coptic block
+2DE0-2DFF  # Cyrillic Extended-A: Historical Cyrillic combining characters
+2E00-2E7F #Symbols
+A640-A69F  # Cyrillic Extended-B: Additional historical and modern Cyrillic letters
+A700-A71F  # Modifiers
+A720-A7FF  # Latin Extended-D: Additional Latin letters for phonetics and orthographies
+AB30-AB6F  # Latin Extended-E: Special Latin characters including IPA extensions
+FB00-FB4F  # Derived: Alphabetic Presentation Forms (Latin ligatures)
+FE20-FE2F  # Combining Half Marks: Includes two combining marks for Cyrillic script (U+FE2E, U+FE2F)
+1106A0-11076F  # Robe strane

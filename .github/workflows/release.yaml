@@ -1,0 +1,31 @@
+name: Build and Release Fonts
+
+on:
+  push:
+    tags:
+      - 'v*'  # On tag starting with v
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fontforge
+
+      - name: Compile fonts
+        run: |
+          mkdir -p dist/${{ github.ref_name }}
+          fontforge -script devops/build_fonts.py src dist/${{ github.ref_name }}
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+          files: dist/${{ github.ref_name }}/*

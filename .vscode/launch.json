@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Build fonts",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/devops/run_fontforge.py",
+            "args": [
+                "${workspaceFolder}/devops/build_fonts.py",
+                "${workspaceFolder}/src",
+                "${workspaceFolder}/bin"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Log built fonts",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/devops/log.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

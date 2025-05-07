@@ -1,0 +1,419 @@
+Unicode Code,Glyph,Type,Case,Transformations,Base,Additions
+U+0250,ɐ,Letter,Small,Turned,A,
+U+0251,ɑ,Letter,Small,None,ALPHA,
+U+0252,ɒ,Letter,Small,Turned,ALPHA,
+U+0253,ɓ,Letter,Small,None,B,HOOK
+U+0254,ɔ,Letter,Small,None,OPEN O,
+U+0255,ɕ,Letter,Small,None,C,CURL
+U+0256,ɖ,Letter,Small,None,D,TAIL
+U+0257,ɗ,Letter,Small,None,D,HOOK
+U+0258,ɘ,Letter,Small,Reversed,E,
+U+0259,ə,Letter,Small,None,SCHWA,
+U+025A,ɚ,Letter,Small,None,SCHWA,HOOK
+U+025B,ɛ,Letter,Small,None,OPEN E,
+U+025C,ɜ,Letter,Small,Reversed,OPEN E,
+U+025D,ɝ,Letter,Small,Reversed,OPEN E,HOOK
+U+025E,ɞ,Letter,Small,Reversed,CLOSED  OPEN E,
+U+025F,ɟ,Letter,Small,None,DOTLESS J,STROKE
+U+0260,ɠ,Letter,Small,None,G,HOOK
+U+0261,ɡ,Letter,Small,None,SCRIPT G,
+U+0262,ɢ,Letter,SmallCap,None,G,
+U+0263,ɣ,Letter,Small,None,GAMMA,
+U+0264,ɤ,Letter,Small,None,RAMS HORN,
+U+0265,ɥ,Letter,Small,Turned,H,
+U+0266,ɦ,Letter,Small,None,H,HOOK
+U+0267,ɧ,Letter,Small,None,HENG,HOOK
+U+0268,ɨ,Letter,Small,None,I,STROKE
+U+0269,ɩ,Letter,Small,None,IOTA,
+U+026A,ɪ,Letter,SmallCap,None,I,
+U+026B,ɫ,Letter,Small,None,L,MIDDLE TILDE
+U+026C,ɬ,Letter,Small,None,L,BELT
+U+026D,ɭ,Letter,Small,None,L,RETROFLEX HOOK
+U+026E,ɮ,Letter,Small,None,LEZH,
+U+026F,ɯ,Letter,Small,Turned,M,
+U+0270,ɰ,Letter,Small,Turned,M,LONG LEG
+U+0271,ɱ,Letter,Small,None,M,HOOK
+U+0272,ɲ,Letter,Small,None,N,LEFT HOOK
+U+0273,ɳ,Letter,Small,None,N,RETROFLEX HOOK
+U+0274,ɴ,Letter,SmallCap,None,N,
+U+0275,ɵ,Letter,Small,None,BARRED O,
+U+0276,ɶ,Letter,SmallCap,None,OE,
+U+0277,ɷ,Letter,Small,None,CLOSED OMEGA,
+U+0278,ɸ,Letter,Small,None,PHI,
+U+0279,ɹ,Letter,Small,Turned,R,
+U+027A,ɺ,Letter,Small,Turned,R,LONG LEG
+U+027B,ɻ,Letter,Small,Turned,R,HOOK
+U+027C,ɼ,Letter,Small,None,R,LONG LEG
+U+027D,ɽ,Letter,Small,None,R,TAIL
+U+027E,ɾ,Letter,Small,None,R,FISHHOOK
+U+027F,ɿ,Letter,Small,Reversed,R,FISHHOOK
+U+0280,ʀ,Letter,SmallCap,None,R,
+U+0281,ʁ,Letter,SmallCap,None,INVERTED R,
+U+0282,ʂ,Letter,Small,None,S,HOOK
+U+0283,ʃ,Letter,Small,None,ESH,
+U+0284,ʄ,Letter,Small,None,DOTLESS J,STROKE AND HOOK
+U+0285,ʅ,Letter,Small,Reversed,SQUAT  ESH,
+U+0286,ʆ,Letter,Small,None,ESH,CURL
+U+0287,ʇ,Letter,Small,Turned,T,
+U+0288,ʈ,Letter,Small,None,T,RETROFLEX HOOK
+U+0289,ʉ,Letter,Small,None,U BAR,
+U+028A,ʊ,Letter,Small,None,UPSILON,
+U+028B,ʋ,Letter,Small,None,V,HOOK
+U+028C,ʌ,Letter,Small,Turned,V,
+U+028D,ʍ,Letter,Small,Turned,W,
+U+028E,ʎ,Letter,Small,Turned,Y,
+U+028F,ʏ,Letter,SmallCap,None,Y,
+U+0290,ʐ,Letter,Small,None,Z,RETROFLEX HOOK
+U+0291,ʑ,Letter,Small,None,Z,CURL
+U+0292,ʒ,Letter,Small,None,EZH,
+U+0293,ʓ,Letter,Small,None,EZH,CURL
+U+0294,ʔ,Letter,None,None,GLOTTAL STOP,
+U+0295,ʕ,Letter,None,None,PHARYNGEAL VOICED FRICATIVE,
+U+0296,ʖ,Letter,None,None,INVERTED GLOTTAL STOP,
+U+0297,ʗ,Letter,None,None,STRETCHED C,
+U+0298,ʘ,Letter,None,None,BILABIAL CLICK,
+U+0299,ʙ,Letter,SmallCap,None,B,
+U+029A,ʚ,Letter,Small,None,CLOSED OPEN E,
+U+029B,ʛ,Letter,SmallCap,None,G,HOOK
+U+029C,ʜ,Letter,SmallCap,None,H,
+U+029D,ʝ,Letter,Small,None,J,CROSSED-TAIL
+U+029E,ʞ,Letter,Small,Turned,K,
+U+029F,ʟ,Letter,SmallCap,None,L,
+U+02A0,ʠ,Letter,Small,None,Q,HOOK
+U+02A1,ʡ,Letter,None,None,GLOTTAL STOP,STROKE
+U+02A2,ʢ,Letter,None,Reversed,GLOTTAL STOP,STROKE
+U+02A3,ʣ,Letter,Small,None,DZ DIGRAPH,
+U+02A4,ʤ,Letter,Small,None,DEZH DIGRAPH,
+U+02A5,ʥ,Letter,Small,None,DZ DIGRAPH,CURL
+U+02A6,ʦ,Letter,Small,None,TS DIGRAPH,
+U+02A7,ʧ,Letter,Small,None,TESH DIGRAPH,
+U+02A8,ʨ,Letter,Small,None,TC DIGRAPH,CURL
+U+02A9,ʩ,Letter,Small,None,FENG DIGRAPH,
+U+02AA,ʪ,Letter,Small,None,LS DIGRAPH,
+U+02AB,ʫ,Letter,Small,None,LZ DIGRAPH,
+U+02AC,ʬ,Letter,None,None,BILABIAL PERCUSSIVE,
+U+02AD,ʭ,Letter,None,None,BIDENTAL PERCUSSIVE,
+U+02AE,ʮ,Letter,Small,Turned,H,FISHHOOK
+U+02AF,ʯ,Letter,Small,Turned,H,FISHHOOK AND TAIL
+U+1D00,ᴀ,Letter,SmallCap,None,A,
+U+1D01,ᴁ,Letter,SmallCap,None,AE,
+U+1D02,ᴂ,Letter,Small,Turned,AE,
+U+1D03,ᴃ,Letter,SmallCap,None,BARRED B,
+U+1D04,ᴄ,Letter,SmallCap,None,C,
+U+1D05,ᴅ,Letter,SmallCap,None,D,
+U+1D06,ᴆ,Letter,SmallCap,None,ETH,
+U+1D07,ᴇ,Letter,SmallCap,None,E,
+U+1D08,ᴈ,Letter,Small,Turned,OPEN E,
+U+1D09,ᴉ,Letter,Small,Turned,I,
+U+1D0A,ᴊ,Letter,SmallCap,None,J,
+U+1D0B,ᴋ,Letter,SmallCap,None,K,
+U+1D0C,ᴌ,Letter,SmallCap,None,L,STROKE
+U+1D0D,ᴍ,Letter,SmallCap,None,M,
+U+1D0E,ᴎ,Letter,SmallCap,Reversed,N,
+U+1D0F,ᴏ,Letter,SmallCap,None,O,
+U+1D10,ᴐ,Letter,SmallCap,None,OPEN O,
+U+1D11,ᴑ,Letter,Small,Sideways,SIDEWAYS O,
+U+1D12,ᴒ,Letter,Small,Sideways,SIDEWAYS OPEN O,
+U+1D13,ᴓ,Letter,Small,Sideways,SIDEWAYS O,STROKE
+U+1D14,ᴔ,Letter,Small,Turned,OE,
+U+1D15,ᴕ,Letter,SmallCap,None,OU,
+U+1D16,ᴖ,Letter,Small,None,TOP HALF O,
+U+1D17,ᴗ,Letter,Small,None,BOTTOM HALF O,
+U+1D18,ᴘ,Letter,SmallCap,None,P,
+U+1D19,ᴙ,Letter,SmallCap,Reversed,R,
+U+1D1A,ᴚ,Letter,SmallCap,Turned,R,
+U+1D1B,ᴛ,Letter,SmallCap,None,T,
+U+1D1C,ᴜ,Letter,SmallCap,None,U,
+U+1D1D,ᴝ,Letter,Small,Sideways,SIDEWAYS U,
+U+1D1E,ᴞ,Letter,Small,Sideways,SIDEWAYS DIAERESIZED U,
+U+1D1F,ᴟ,Letter,Small,"Turned, Sideways",SIDEWAYS  M,
+U+1D20,ᴠ,Letter,SmallCap,None,V,
+U+1D21,ᴡ,Letter,SmallCap,None,W,
+U+1D22,ᴢ,Letter,SmallCap,None,Z,
+U+1D23,ᴣ,Letter,SmallCap,None,EZH,
+U+1D24,ᴤ,Letter,None,None,VOICED LARYNGEAL SPIRANT,
+U+1D25,ᴥ,Letter,None,None,AIN,
+U+1D26,ᴦ,Letter,SmallCap,None,GAMMA,
+U+1D27,ᴧ,Letter,SmallCap,None,LAMDA,
+U+1D28,ᴨ,Letter,SmallCap,None,PI,
+U+1D29,ᴩ,Letter,SmallCap,None,RHO,
+U+1D2A,ᴪ,Letter,SmallCap,None,PSI,
+U+1D2B,ᴫ,Letter,SmallCap,None,EL,
+U+1D2C,ᴬ,Modifier,SmallCap,None,LETTER CAPITAL A,
+U+1D2D,ᴭ,Modifier,SmallCap,None,LETTER CAPITAL AE,
+U+1D2E,ᴮ,Modifier,SmallCap,None,LETTER CAPITAL B,
+U+1D2F,ᴯ,Modifier,SmallCap,None,LETTER CAPITAL BARRED B,
+U+1D30,ᴰ,Modifier,SmallCap,None,LETTER CAPITAL D,
+U+1D31,ᴱ,Modifier,SmallCap,None,LETTER CAPITAL E,
+U+1D32,ᴲ,Modifier,SmallCap,Reversed,LETTER CAPITAL  E,
+U+1D33,ᴳ,Modifier,SmallCap,None,LETTER CAPITAL G,
+U+1D34,ᴴ,Modifier,SmallCap,None,LETTER CAPITAL H,
+U+1D35,ᴵ,Modifier,SmallCap,None,LETTER CAPITAL I,
+U+1D36,ᴶ,Modifier,SmallCap,None,LETTER CAPITAL J,
+U+1D37,ᴷ,Modifier,SmallCap,None,LETTER CAPITAL K,
+U+1D38,ᴸ,Modifier,SmallCap,None,LETTER CAPITAL L,
+U+1D39,ᴹ,Modifier,SmallCap,None,LETTER CAPITAL M,
+U+1D3A,ᴺ,Modifier,SmallCap,None,LETTER CAPITAL N,
+U+1D3B,ᴻ,Modifier,SmallCap,Reversed,LETTER CAPITAL  N,
+U+1D3C,ᴼ,Modifier,SmallCap,None,LETTER CAPITAL O,
+U+1D3D,ᴽ,Modifier,SmallCap,None,LETTER CAPITAL OU,
+U+1D3E,ᴾ,Modifier,SmallCap,None,LETTER CAPITAL P,
+U+1D3F,ᴿ,Modifier,SmallCap,None,LETTER CAPITAL R,
+U+1D40,ᵀ,Modifier,SmallCap,None,LETTER CAPITAL T,
+U+1D41,ᵁ,Modifier,SmallCap,None,LETTER CAPITAL U,
+U+1D42,ᵂ,Modifier,SmallCap,None,LETTER CAPITAL W,
+U+1D43,ᵃ,Modifier,Small,None,A,
+U+1D44,ᵄ,Modifier,Small,Turned, A,
+U+1D45,ᵅ,Modifier,Small,None,ALPHA,
+U+1D46,ᵆ,Modifier,Small,Turned, AE,
+U+1D47,ᵇ,Modifier,Small,None,B,
+U+1D48,ᵈ,Modifier,Small,None,D,
+U+1D49,ᵉ,Modifier,Small,None,E,
+U+1D4A,ᵊ,Modifier,Small,None,SCHWA,
+U+1D4B,ᵋ,Modifier,Small,None,OPEN E,
+U+1D4C,ᵌ,Modifier,Small,Turned, OPEN E,
+U+1D4D,ᵍ,Modifier,Small,None,G,
+U+1D4E,ᵎ,Modifier,Small,Turned, I,
+U+1D4F,ᵏ,Modifier,Small,None,K,
+U+1D50,ᵐ,Modifier,Small,None,M,
+U+1D51,ᵑ,Modifier,Small,None,ENG,
+U+1D52,ᵒ,Modifier,Small,None,O,
+U+1D53,ᵓ,Modifier,Small,None,OPEN O,
+U+1D54,ᵔ,Modifier,Small,None,TOP HALF O,
+U+1D55,ᵕ,Modifier,Small,None,BOTTOM HALF O,
+U+1D56,ᵖ,Modifier,Small,None,P,
+U+1D57,ᵗ,Modifier,Small,None,T,
+U+1D58,ᵘ,Modifier,Small,None,U,
+U+1D59,ᵙ,Modifier,Small,Sideways,SIDEWAYS U,
+U+1D5A,ᵚ,Modifier,Small,Turned, M,
+U+1D5B,ᵛ,Modifier,Small,None,V,
+U+1D5C,ᵜ,Modifier,Small,None,AIN,
+U+1D5D,ᵝ,Modifier,Small,None,BETA,
+U+1D5E,ᵞ,Modifier,Small,None,GREEK GAMMA,
+U+1D5F,ᵟ,Modifier,Small,None,DELTA,
+U+1D60,ᵠ,Modifier,Small,None,GREEK PHI,
+U+1D61,ᵡ,Modifier,Small,None,CHI,
+U+1D62,ᵢ,Subscript,Small,None,I,
+U+1D63,ᵣ,Subscript,Small,None,R,
+U+1D64,ᵤ,Subscript,Small,None,U,
+U+1D65,ᵥ,Subscript,Small,None,V,
+U+1D66,ᵦ,Subscript,Small,None,BETA,
+U+1D67,ᵧ,Subscript,Small,None,GAMMA,
+U+1D68,ᵨ,Subscript,Small,None,RHO,
+U+1D69,ᵩ,Subscript,Small,None,PHI,
+U+1D6A,ᵪ,Subscript,Small,None,CHI,
+U+1D6B,ᵫ,Letter,Small,None,UE,
+U+1D6C,ᵬ,Letter,Small,None,B,MIDDLE TILDE
+U+1D6D,ᵭ,Letter,Small,None,D,MIDDLE TILDE
+U+1D6E,ᵮ,Letter,Small,None,F,MIDDLE TILDE
+U+1D6F,ᵯ,Letter,Small,None,M,MIDDLE TILDE
+U+1D70,ᵰ,Letter,Small,None,N,MIDDLE TILDE
+U+1D71,ᵱ,Letter,Small,None,P,MIDDLE TILDE
+U+1D72,ᵲ,Letter,Small,None,R,MIDDLE TILDE
+U+1D73,ᵳ,Letter,Small,None,R,FISHHOOK AND MIDDLE TILDE
+U+1D74,ᵴ,Letter,Small,None,S,MIDDLE TILDE
+U+1D75,ᵵ,Letter,Small,None,T,MIDDLE TILDE
+U+1D76,ᵶ,Letter,Small,None,Z,MIDDLE TILDE
+U+1D77,ᵷ,Letter,Small,Turned,G,
+U+1D78,ᵸ,Modifier,None,None,LETTER CYRILLIC EN,
+U+1D79,ᵹ,Letter,Small,None,INSULAR G,
+U+1D7A,ᵺ,Letter,Small,None,TH,STRIKETHROUGH
+U+1D7B,ᵻ,Letter,SmallCap,None,I,STROKE
+U+1D7C,ᵼ,Letter,Small,None,IOTA,STROKE
+U+1D7D,ᵽ,Letter,Small,None,P,STROKE
+U+1D7E,ᵾ,Letter,SmallCap,None,U,STROKE
+U+1D7F,ᵿ,Letter,Small,None,UPSILON,STROKE
+U+1D80,ᶀ,Letter,Small,None,B,PALATAL HOOK
+U+1D81,ᶁ,Letter,Small,None,D,PALATAL HOOK
+U+1D82,ᶂ,Letter,Small,None,F,PALATAL HOOK
+U+1D83,ᶃ,Letter,Small,None,G,PALATAL HOOK
+U+1D84,ᶄ,Letter,Small,None,K,PALATAL HOOK
+U+1D85,ᶅ,Letter,Small,None,L,PALATAL HOOK
+U+1D86,ᶆ,Letter,Small,None,M,PALATAL HOOK
+U+1D87,ᶇ,Letter,Small,None,N,PALATAL HOOK
+U+1D88,ᶈ,Letter,Small,None,P,PALATAL HOOK
+U+1D89,ᶉ,Letter,Small,None,R,PALATAL HOOK
+U+1D8A,ᶊ,Letter,Small,None,S,PALATAL HOOK
+U+1D8B,ᶋ,Letter,Small,None,ESH,PALATAL HOOK
+U+1D8C,ᶌ,Letter,Small,None,V,PALATAL HOOK
+U+1D8D,ᶍ,Letter,Small,None,X,PALATAL HOOK
+U+1D8E,ᶎ,Letter,Small,None,Z,PALATAL HOOK
+U+1D8F,ᶏ,Letter,Small,None,A,RETROFLEX HOOK
+U+1D90,ᶐ,Letter,Small,None,ALPHA,RETROFLEX HOOK
+U+1D91,ᶑ,Letter,Small,None,D,HOOK AND TAIL
+U+1D92,ᶒ,Letter,Small,None,E,RETROFLEX HOOK
+U+1D93,ᶓ,Letter,Small,None,OPEN E,RETROFLEX HOOK
+U+1D94,ᶔ,Letter,Small,Reversed,OPEN E,RETROFLEX HOOK
+U+1D95,ᶕ,Letter,Small,None,SCHWA,RETROFLEX HOOK
+U+1D96,ᶖ,Letter,Small,None,I,RETROFLEX HOOK
+U+1D97,ᶗ,Letter,Small,None,OPEN O,RETROFLEX HOOK
+U+1D98,ᶘ,Letter,Small,None,ESH,RETROFLEX HOOK
+U+1D99,ᶙ,Letter,Small,None,U,RETROFLEX HOOK
+U+1D9A,ᶚ,Letter,Small,None,EZH,RETROFLEX HOOK
+U+1D9B,ᶛ,Modifier,Small,Turned, ALPHA,
+U+1D9C,ᶜ,Modifier,Small,None,C,
+U+1D9D,ᶝ,Modifier,Small,None,C,CURL
+U+1D9E,ᶞ,Modifier,Small,None,ETH,
+U+1D9F,ᶟ,Modifier,Small,Reversed, OPEN E,
+U+1DA0,ᶠ,Modifier,Small,None,F,
+U+1DA1,ᶡ,Modifier,Small,None,DOTLESS J,STROKE
+U+1DA2,ᶢ,Modifier,Small,None,SCRIPT G,
+U+1DA3,ᶣ,Modifier,Small,Turned, H,
+U+1DA4,ᶤ,Modifier,Small,None,I,STROKE
+U+1DA5,ᶥ,Modifier,Small,None,IOTA,
+U+1DA6,ᶦ,Modifier,SmallCap,None,I,
+U+1DA7,ᶧ,Modifier,SmallCap,None,I,STROKE
+U+1DA8,ᶨ,Modifier,Small,None,J,CROSSED-TAIL
+U+1DA9,ᶩ,Modifier,Small,None,L,RETROFLEX HOOK
+U+1DAA,ᶪ,Modifier,Small,None,L,PALATAL HOOK
+U+1DAB,ᶫ,Modifier,SmallCap,None,L,
+U+1DAC,ᶬ,Modifier,Small,None,M,HOOK
+U+1DAD,ᶭ,Modifier,Small,Turned, M,LONG LEG
+U+1DAE,ᶮ,Modifier,Small,None,N,LEFT HOOK
+U+1DAF,ᶯ,Modifier,Small,None,N,RETROFLEX HOOK
+U+1DB0,ᶰ,Modifier,SmallCap,None,N,
+U+1DB1,ᶱ,Modifier,Small,None,BARRED O,
+U+1DB2,ᶲ,Modifier,Small,None,PHI,
+U+1DB3,ᶳ,Modifier,Small,None,S,HOOK
+U+1DB4,ᶴ,Modifier,Small,None,ESH,
+U+1DB5,ᶵ,Modifier,Small,None,T,PALATAL HOOK
+U+1DB6,ᶶ,Modifier,Small,None,U BAR,
+U+1DB7,ᶷ,Modifier,Small,None,UPSILON,
+U+1DB8,ᶸ,Modifier,SmallCap,None,U,
+U+1DB9,ᶹ,Modifier,Small,None,V,HOOK
+U+1DBA,ᶺ,Modifier,Small,Turned, V,
+U+1DBB,ᶻ,Modifier,Small,None,Z,
+U+1DBC,ᶼ,Modifier,Small,None,Z,RETROFLEX HOOK
+U+1DBD,ᶽ,Modifier,Small,None,Z,CURL
+U+1DBE,ᶾ,Modifier,Small,None,EZH,
+U+1DBF,ᶿ,Modifier,Small,None,THETA,
+U+1DBC,ᶼ,Modifier,Small,None,Z,RETROFLEX HOOK
+U+2C60,Ⱡ,Letter,Capital,None,L,Double Bar,L
+U+2C61,ⱡ,Letter,Small,None,L,Double Bar,l
+U+2C62,Ɫ,Letter,Capital,None,L,Middle Tilde,L
+U+2C63,Ᵽ,Letter,Capital,None,P,Stroke,P
+U+2C64,Ɽ,Letter,Capital,None,R,Tail,R
+U+2C65,ⱥ,Letter,Small,None,A,Stroke,a
+U+2C66,ⱦ,Letter,Small,None,T,Diagonal Stroke,t
+U+2C67,Ⱨ,Letter,Capital,None,H,Descender,H
+U+2C68,ⱨ,Letter,Small,None,H,Descender,h
+U+2C69,Ⱪ,Letter,Capital,None,K,Descender,K
+U+2C6A,ⱪ,Letter,Small,None,K,Descender,k
+U+2C6B,Ⱬ,Letter,Capital,None,Z,Descender,Z
+U+2C6C,ⱬ,Letter,Small,None,Z,Descender,z
+U+2C6D,Ɑ,Letter,Capital,None,Alpha,A
+U+2C6E,Ɱ,Letter,Capital,None,M,Hook,M
+U+2C6F,Ɐ,Letter,Capital,Turned,A,A
+U+2C70,Ɒ,Letter,Capital,Turned,Alpha,A
+U+2C71,ⱱ,Letter,Small,None,V,Right Hook,v
+U+2C72,Ⱳ,Letter,Capital,None,W,Hook,W
+U+2C73,ⱳ,Letter,Small,None,W,Hook,w
+U+2C74,ⱴ,Letter,Small,None,V,Curl,v
+U+2C75,Ⱶ,Letter,Capital,None,Half H,H
+U+2C76,ⱶ,Letter,Small,None,Half H,h
+U+2C77,ⱷ,Letter,Small,None,Tailless Phi,ɸ
+U+2C78,ⱸ,Letter,Small,None,E,Notch,e
+U+2C79,ⱹ,Letter,Small,Turned,R,Tail,ɹ
+U+2C7A,ⱺ,Letter,Small,None,O,Low Ring Inside,o
+U+2C7B,ⱻ,Letter,SmallCap,Turned,E,ɛ
+U+2C7C,ⱼ,Subscript,Small,None,J,j
+U+2C7D,ⱽ,Modifier Letter Capital V,V
+U+2C7E,Ȿ,Letter,Capital,None,S,Swash Tail,S
+U+2C7F,Ɀ,Letter,Capital,None,Z,Swash Tail,Z
+U+A726,Ꜧ,Letter,Capital,None,HENG,H
+U+A727,ꜧ,Letter,Small,None,HENG,h
+U+A728,Ꜩ,Letter,Capital,None,TZ,T
+U+A729,ꜩ,Letter,Small,None,TZ,t
+U+A72A,Ꜫ,Letter,Capital,None,TRESILLO,T
+U+A72B,ꜫ,Letter,Small,None,TRESILLO,t
+U+A72C,Ꜭ,Letter,Capital,None,CUATRILLO,C
+U+A72D,ꜭ,Letter,Small,None,CUATRILLO,c
+U+A72E,Ꜯ,Letter,Capital,None,CUATRILLO,COMMA,C
+U+A72F,ꜯ,Letter,Small,None,CUATRILLO,COMMA,c
+U+A730,ꜰ,Letter,SmallCap,None,F,F
+U+A731,ꜱ,Letter,SmallCap,None,S,S
+U+A732,Ꜳ,Letter,Capital,None,AA,A
+U+A733,ꜳ,Letter,Small,None,AA,a
+U+AB30,ꬰ,Letter,Small,None,BARRED ALPHA,α
+U+AB31,ꬱ,Letter,Small,None,A REVERSED-SCHWA,ɐ
+U+AB32,ꬲ,Letter,Small,None,BLACKLETTER E,𝔢
+U+AB33,ꬳ,Letter,Small,None,BARRED E,ɛ
+U+AB34,ꬴ,Letter,Small,None,E,FLOURISH,e
+U+AB35,ꬵ,Letter,Small,None,LENIS F,f
+U+AB36,ꬶ,Letter,Small,None,SCRIPT G,CROSSED-TAIL,g
+U+AB37,ꬷ,Letter,Small,None,L,INVERTED LAZY S,l
+U+AB38,ꬸ,Letter,Small,None,L,DOUBLE MIDDLE TILDE,l
+U+AB39,ꬹ,Letter,Small,None,L,MIDDLE RING,l
+U+AB3A,ꬺ,Letter,Small,None,M,CROSSED-TAIL,m
+U+AB3B,ꬻ,Letter,Small,None,N,CROSSED-TAIL,n
+U+AB3C,ꬼ,Letter,Small,None,ENG,CROSSED-TAIL,ŋ
+U+AB3D,ꬽ,Letter,Small,None,BLACKLETTER O,𝔬
+U+AB3E,ꬾ,Letter,Small,None,BLACKLETTER O,STROKE,𝔬
+U+AB3F,ꬿ,Letter,Small,None,OPEN O,STROKE,ɔ
+U+AB40,ꭀ,Letter,Small,None,INVERTED OE,œ
+U+AB41,ꭁ,Letter,Small,Turned,OE,STROKE,œ
+U+AB42,ꭂ,Letter,Small,Turned,OE,HORIZONTAL STROKE,œ
+U+AB43,ꭃ,Letter,Small,Turned,O OPEN-O,ɔ
+U+AB44,ꭄ,Letter,Small,Turned,O OPEN-O,STROKE,ɔ
+U+AB45,ꭅ,Letter,Small,None,STIRRUP R,r
+U+AB46,ꭆ,Letter,SmallCap,None,R,RIGHT LEG,ʀ
+U+AB47,ꭇ,Letter,Small,None,R WITHOUT HANDLE,r
+U+AB48,ꭈ,Letter,Small,None,DOUBLE R,r
+U+AB49,ꭉ,Letter,Small,None,R,CROSSED-TAIL,r
+U+AB4A,ꭊ,Letter,Small,None,DOUBLE R,CROSSED-TAIL,r
+U+AB4B,ꭋ,Letter,Small,None,SCRIPT R,r
+U+AB4C,ꭌ,Letter,Small,None,SCRIPT R,RING,r
+U+AB4D,ꭍ,Letter,Small,None,BASELINE ESH,ʃ
+U+AB4E,ꭎ,Letter,Small,None,U,SHORT RIGHT LEG,u
+U+AB4F,ꭏ,Letter,Small,None,U BAR,SHORT RIGHT LEG,u
+U+AB50,ꭐ,Letter,Small,None,UI,ui
+U+AB51,ꭑ,Letter,Small,Turned,UI,ui
+U+AB52,ꭒ,Letter,Small,None,U,LEFT HOOK,u
+U+AB53,ꭓ,Letter,Small,None,CHI,χ
+U+A734,Ꜵ,Letter,Capital,None,AO,A
+U+A735,ꜵ,Letter,Small,None,AO,a
+U+A736,Ꜷ,Letter,Capital,None,AU,A
+U+A737,ꜷ,Letter,Small,None,AU,a
+U+A738,Ꜹ,Letter,Capital,None,AV,A
+U+A739,ꜹ,Letter,Small,None,AV,a
+U+A73A,Ꜻ,Letter,Capital,None,AV,HORIZONTAL BAR,A
+U+A73B,ꜻ,Letter,Small,None,AV,HORIZONTAL BAR,a
+U+A73C,Ꜽ,Letter,Capital,None,AY,A
+U+A73D,ꜽ,Letter,Small,None,AY,a
+U+A73E,Ꜿ,Letter,Capital,None,REVERSED C,DOT,C
+U+A73F,ꜿ,Letter,Small,None,REVERSED C,DOT,c
+U+A740,Ꝁ,Letter,Capital,None,K,STROKE,K
+U+A741,ꝁ,Letter,Small,None,K,STROKE,k
+U+A742,Ꝃ,Letter,Capital,None,K,DIAGONAL STROKE,K
+U+A743,ꝃ,Letter,Small,None,K,DIAGONAL STROKE,k
+U+A744,Ꝅ,Letter,Capital,None,K,STROKE AND DIAGONAL STROKE,K
+U+A745,ꝅ,Letter,Small,None,K,STROKE AND DIAGONAL STROKE,k
+U+A746,Ꝇ,Letter,Capital,None,BROKEN L,L
+U+A747,ꝇ,Letter,Small,None,BROKEN L,l
+U+A748,Ꝉ,Letter,Capital,None,L,HIGH STROKE,L
+U+A749,ꝉ,Letter,Small,None,L,HIGH STROKE,l
+U+A74A,Ꝋ,Letter,Capital,None,O,LONG STROKE OVERLAY,O
+U+A74B,ꝋ,Letter,Small,None,O,LONG STROKE OVERLAY,o
+U+A74C,Ꝍ,Letter,Capital,None,O,LOOP,O
+U+A74D,ꝍ,Letter,Small,None,O,LOOP,o
+U+A74E,Ꝏ,Letter,Capital,None,OO,O
+U+A74F,ꝏ,Letter,Small,None,OO,o
+U+A750,Ꝑ,Letter,Capital,None,P,STROKE THROUGH DESCENDER,P
+U+A751,ꝑ,Letter,Small,None,P,STROKE THROUGH DESCENDER,p
+U+A752,Ꝓ,Letter,Capital,None,P,FLOURISH,P
+U+A753,ꝓ,Letter,Small,None,P,FLOURISH,p
+U+A754,Ꝕ,Letter,Capital,None,P,SQUIRREL TAIL,P
+U+A755,ꝕ,Letter,Small,None,P,SQUIRREL TAIL,p
+U+A756,Ꝗ,Letter,Capital,None,Q,STROKE THROUGH DESCENDER,Q
+U+A757,ꝗ,Letter,Small,None,Q,STROKE THROUGH DESCENDER,q
+U+A758,Ꝙ,Letter,Capital,None,Q,DIAGONAL STROKE,Q
+U+A759,ꝙ,Letter,Small,None,Q,DIAGONAL STROKE,q
+U+A75A,Ꝛ,Letter,Capital,None,R ROTUNDA,R
+U+A75B,ꝛ,Letter,Small,None,R ROTUNDA,r
+U+A75C,Ꝝ,Letter,Capital,None,RUM ROTUNDA,R
+U+A75D,ꝝ,Letter,Small,None,RUM ROTUNDA,r
+U+A75E,Ꝟ,Letter,Capital,None,V,DIAGONAL STROKE,V
+U+A75F,ꝟ,Letter,Small,None,V,DIAGONAL STROKE,v
+
+
+

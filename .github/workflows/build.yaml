@@ -1,0 +1,43 @@
+name: Build Symphonetica Fonts
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-fonts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fontforge python3-fontforge
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run FontForge build
+        run: |
+          mkdir -p build
+          python3 devops/run_fontforge.py devops/build_fonts.py src build
+
+      - name: Log built fonts
+        run: |
+          python3 devops/log.py
+
+      - name: Upload built fonts
+        uses: actions/upload-artifact@v4
+        with:
+          name: symphonetica-fonts
+          path: |
+            build/*.ttf
+            build/*.otf
