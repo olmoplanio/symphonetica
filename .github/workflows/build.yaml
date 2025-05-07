@@ -32,6 +32,7 @@ jobs:
 
       - name: Log built fonts
         run: |
+          mkdir -p bin
           python3 devops/log.py
 
       - name: Upload built fonts
