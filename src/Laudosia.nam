@@ -1170,11 +1170,11 @@
 0x02E2 smod
 0x02E3 xmod
 0x02E4 modaain
-0x02E5 modextrahightonebar
-0x02E6 modhightonebar
-0x02E7 modmidtonebar
-0x02E8 modlowtonebar
-0x02E9 modextralowtonebar
+0x02E5 T5
+0x02E6 T4
+0x02E7 T3
+0x02E8 T2
+0x02E9 T1
 0x02EA modyindepartingtonemark
 0x02EB modyangdepartingtonemark
 0x02EC modvoicing
