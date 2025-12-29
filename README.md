@@ -13,7 +13,7 @@ See the site at [olmoplanio.github.io/symphonetica](https://olmoplanio.github.io
 - Fallback Readability: glyphs degrade to readable text even when the font is not available;
 - Balanced Design: asymmetry (e.g. the position of [ɪ]), readability (e.g. tonemes and diacritics), and regionality (e.g. the position of [a]) are resolved;
 - Extended Symbol Set: additional phonetic symbols not available in standard IPA to be used consistently across different languages and dialects;
-- Open Source: Released under GNU GPL license
+- Open Source: Licensed under the _SIL Open Font License_, allowing free use, modification, and redistribution.
 
 ## Transcription System
 
@@ -36,12 +36,12 @@ The system includes four fonts, designed for precision and typographic elegance:
 
 - **Hibis Hiero**  
   A specialized font based on **Noto Sans Hieroglyphic**, extended with phonologically **ad hoc signs** for Ancient Egyptian. Tailored for phonological and diachronic analysis using hieroglyphs.
-  Example: 〈𓆑𓈖𓆓𓂉𓎡𓅓𓃥𓇋𓐍𓅓𓋴𓎡⟩ ‹fnḏ⸗k m zꜣb jḫm-sk› «your nose is the jackal, (you) non-sinking one».
+  Example: 〈𓆑𓈖𓆓𓂉𓎡𓅓𓃥𓇋𓐍𓅓𓋴𓎡⟩ ‹fnḏ⸗k m zꜣb jḫm-sk› «Your nose is the jackal, (you) non-sinking one».
 
 - **Hibis Demotic**  
   A custom-designed font for the **Demotic script**, built for typographic use in linguistic and historical publications. Includes additional signs needed for accurate transcription and analysis.
   Set RTL direction for relevant blocks (`U+202E` and `U+202C`).
-  Example: 〈[‮𓇋𓋴𓏏𓄟𓋴𓀔𓅱𓈖𓈙𓄛𓋴𓌶𓀢𓀁𓉐𓏤𓎟𓏏‬]⟩ ‹ỉw⸗s msi̯ wnš smꜣꜥ pr nb› «when a jackal is born, it blesses every house».
+  Example: 〈[‮𓇋𓋴𓏏𓄟𓋴𓀔𓅱𓈖𓈙𓄛𓋴𓌶𓀢𓀁𓉐𓏤𓎟𓏏‬]⟩ ‹ỉw⸗s msi̯ wnš smꜣꜥ pr nb› «When a jackal is born, it blesses every house».
   
 ## Format and Usage
 
@@ -56,7 +56,7 @@ To build the fonts from source:
 3. Run the build script:
 
    ```bash
-   python devops/run_fontforge.py .\devops\build_fonts.py
+   python devops/run_fontforge.py ./devops/build_fonts.py
    ```
 
 The compiled fonts will be generated in the `bin` output directory.

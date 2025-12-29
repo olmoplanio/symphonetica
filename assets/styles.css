@@ -96,7 +96,7 @@ p {
 /* Phonetic transcription */
 .phonetic {
     font-family: 'Laudosia', sans-serif;
-    font-variant: small-caps;
+    text-transform: lowercase;
     color: var(--accent-color);
 }
 
