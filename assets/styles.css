@@ -230,6 +230,10 @@ main {
     text-align: center;
 }
 
+.chart-table td {
+    font-family: 'Laudosia', sans-serif;
+}
+
 .chart-table th {
     background-color: var(--light-bg);
     font-weight: 600;
