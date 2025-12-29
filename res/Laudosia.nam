@@ -2301,7 +2301,7 @@
 0x032E comb_brevebelow
 0x032F comb_invertedbrevebelow
 0x0330 comb_tildebelow
-0x0331 comb_macrbelow
+0x0331 comb_macronbelow
 0x0332 comb_lowline
 0x0333 comb_doublelowline
 0x0334 comb_tildeoverlay
@@ -2352,7 +2352,7 @@
 0x1DFF comb_rightarrowheadanddownarrowheadbelow
 0x1DCB comb_brevemacron
 0xFE26 comb_conjoiningmacr
-0xFE24 comb_macrlefthalf
+0xFE24 comb_macronlefthalf
 0xFE25 comb_macrrighthalf
 0x0358 comb_dotaboveright
 0x1DC1 comb_dottedacuteaccent
@@ -3185,11 +3185,11 @@
 0x2CE7 stauroscop
 0x2CE8 taurocop
 0x2CE9 khirocop
-0x2CEA shimasimacop
+0x2CEA cimasimacop
 0x2CEB Sheicryptogrammiccop
 0x2CEC sheicryptogrammiccop
-0x2CED Gangiacryptogrammiccop
-0x2CEE gangiacryptogrammiccop
+0x2CED Janjacryptogrammiccop
+0x2CEE janjacryptogrammiccop
 0x2CF2 Kheibohairiccop
 0x2CF9 fullstopnubian
 0x2CFA directquestionnubian
@@ -3206,10 +3206,10 @@
 0x03E7 kheicop
 0x03E8 Horicop
 0x03E9 horicop
-0x03EA Gangiacop
-0x03EB gangiacop
-0x03EC Shimacop
-0x03ED shimacop
+0x03EA Janjacop
+0x03EB janjacop
+0x03EC Cimacop
+0x03ED cimacop
 0x03EE Deicop
 0x03EF deicop
 0x2CEF comb_niabovecop
