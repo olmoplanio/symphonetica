@@ -61,6 +61,8 @@ To build the fonts from source:
 
 The compiled fonts will be generated in the `bin` output directory.
 
+The build process is automated using GitHub Actions, ensuring consistent and reproducible font builds into the `res` output directory.
+
 ## License
 
 All fonts in the Symphonetica project are distributed under the  

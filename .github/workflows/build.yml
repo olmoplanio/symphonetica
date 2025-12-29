@@ -28,7 +28,7 @@ jobs:
       - name: Run FontForge build
         run: |
           mkdir -p build
-          python3 devops/run_fontforge.py devops/build_fonts.py src assets
+          python3 devops/run_fontforge.py devops/build_fonts.py src res
 
       - name: Log built fonts
         run: |
@@ -40,5 +40,6 @@ jobs:
         with:
           name: symphonetica-fonts
           path: |
-            build/*.ttf
-            build/*.otf
+            res/*.ttf
+            res/*.otf
+            res/*.woff2
