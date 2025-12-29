@@ -47,6 +47,20 @@ The system includes four fonts, designed for precision and typographic elegance:
 
 Fonts are provided in **TrueType (TTF)**, **OpenType (OTF)** and **Web Open Font Format (WOFF2)** formats, ready for use in digital publications, typesetting environments, and academic documentation.
 
+## Development
+
+To build the fonts from source:
+
+1. Install **Python 3.13** or later
+2. Install **FontForge** with Python bindings
+3. Run the build script:
+
+   ```bash
+   python devops/run_fontforge.py .\devops\build_fonts.py
+   ```
+
+The compiled fonts will be generated in the `bin` output directory.
+
 ## License
 
 All fonts in the Symphonetica project are distributed under the  

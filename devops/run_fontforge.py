@@ -7,7 +7,7 @@ import sys
 def get_fontforge_command():
     system = platform.system()
     if system == "Windows":
-        preferred_path = r"C:\Program Files (x86)\FontForgeBuilds\bin\fontforge.exe"
+        preferred_path = r"C:\Program Files\FontForgeBuilds\bin\fontforge.exe"
         if os.path.exists(preferred_path):
             return preferred_path
         return shutil.which("fontforge.exe")
