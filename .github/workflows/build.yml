@@ -35,12 +35,10 @@ jobs:
           mkdir -p bin
           python3 devops/log.py
 
-      - name: Upload built fonts
-        uses: actions/upload-artifact@v4
-        with:
-          name: symphonetica-fonts
-          path: |
-            assets/fonts/*.ttf
-            assets/fonts/*.otf
-            assets/fonts/*.woff2
-            assets/*.nam
+      - name: Commit and push generated fonts
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/fonts/* assets/*.nam
+          git diff --staged --quiet || git commit -m "Build: Update generated fonts [skip ci]"
+          git push
