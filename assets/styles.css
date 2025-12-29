@@ -3,7 +3,7 @@
 /* Font Face Declarations */
 @font-face {
     font-family: 'Laudosia';
-    src: url('./assets/fonts/Laudosia-Regular.woff2') format('woff2');
+    src: url('./fonts/Laudosia-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -11,7 +11,7 @@
 
 @font-face {
     font-family: 'Laudosia';
-    src: url('./assets/fonts/Laudosia-Literal.woff2') format('woff2');
+    src: url('./fonts/Laudosia-Literal.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -20,7 +20,7 @@
 /* Hibis Fonts */
 @font-face {
     font-family: 'Hibis-Demotic';
-    src: url('./assets/fonts/Hibis-Demotic.woff2') format('woff2');
+    src: url('./fonts/Hibis-Demotic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -28,7 +28,7 @@
 
 @font-face {
     font-family: 'Hibis-Hiero';
-    src: url('./assets/fonts/Hibis-Hiero.woff2') format('woff2');
+    src: url('./fonts/Hibis-Hiero.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
