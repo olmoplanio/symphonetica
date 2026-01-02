@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1277108302
-ModificationTime: 1767393779
+ModificationTime: 1767394435
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3532,12 +3532,12 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 50 14
+WinInfo: 1950 50 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom-right" "'mark' Mark Positioning lookup 25-1" "top-right" "'mark' Mark Positioning lookup 25-1" "top" "'mark' Mark Positioning lookup 25-1" "bottom" "'mark' Mark Positioning lookup 25-1" "Anchor-0" "'mark' Mark Positioning in Hebrew lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Hebrew lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Hebrew lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning in Hebrew lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-6" "'mark' Mark Positioning in Hebrew lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning in Hebrew lookup 10 subtable" "Anchor-8" "'mark' Mark Positioning in Hebrew lookup 11 subtable" "Anchor-9" "'mark' Mark Positioning in Hebrew lookup 12 subtable" "Anchor-10" "Mark to base attachment lookup 18 subtable" "Anchor-11" "Mark to base attachment lookup 19 subtable" "Anchor-12" "Mark to base attachment lookup 20 subtable" "Anchor-13" "Mark to base attachment lookup 21 subtable"
-BeginChars: 65816 2601
+BeginChars: 65816 2602
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -55374,43 +55374,43 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-230 -5 m 0,0,1
- 198 -5 198 -5 174 5.5 c 128,-1,2
- 150 16 150 16 132 28 c 128,-1,3
- 114 40 114 40 99.5 50 c 0,4,5
- 84 60 84 60 72 60 c 0,6,7
- 54 60 54 60 47 47 c 128,-1,8
- 40 34 40 34 35 0 c 1,9,10
- 34 0 34 0 2 0 c 1,11,12
- 9 114 9 114 76 114 c 0,13,14
- 98 114 98 114 115 104.5 c 128,-1,15
- 132 95 132 95 148.5 83.5 c 128,-1,16
- 165 72 165 72 184.5 62 c 128,-1,17
- 204 52 204 52 230 52 c 0,18,19
- 274 52 274 52 296 85 c 128,-1,20
- 318 118 318 118 318 198 c 0,21,22
- 318 266 318 266 302 315 c 1,23,24
- 236 258 236 258 156 258 c 0,25,26
- 122 258 122 258 95 272 c 128,-1,27
- 68 286 68 286 52 311 c 128,-1,28
- 36 336 36 336 36 364 c 0,29,30
- 36 395 36 395 54 423 c 128,-1,31
- 72 451 72 451 104 466.5 c 128,-1,32
- 136 482 136 482 177 482 c 0,33,34
- 270 482 270 482 334 419 c 1,35,36
- 352 451 352 451 359 479 c 1,37,38
- 360 479 360 479 396 479 c 1,39,40
- 388 433 388 433 361 387 c 1,41,42
- 408 320 408 320 408 224 c 0,43,44
- 408 124 408 124 358.5 59.5 c 128,-1,45
- 309 -5 309 -5 230 -5 c 0,0,1
-168 430 m 0,46,47
- 128 430 128 430 105 411 c 128,-1,48
- 82 392 82 392 82 361 c 0,49,50
- 82 333 82 333 104 315.5 c 128,-1,51
- 126 298 126 298 160 298 c 0,52,53
- 224 298 224 298 286 356 c 1,54,55
- 244 430 244 430 168 430 c 0,46,47
+230 -5 m 4,0,1
+ 198 -5 198 -5 174 5.5 c 132,-1,2
+ 150 16 150 16 132 28 c 132,-1,3
+ 114 40 114 40 99.5 50 c 4,4,5
+ 84 60 84 60 72 60 c 4,6,7
+ 54 60 54 60 47 47 c 132,-1,8
+ 40 34 40 34 35 0 c 5,9,10
+ 34 0 34 0 2 0 c 5,11,12
+ 9 114 9 114 76 114 c 4,13,14
+ 98 114 98 114 115 104.5 c 132,-1,15
+ 132 95 132 95 148.5 83.5 c 132,-1,16
+ 165 72 165 72 184.5 62 c 132,-1,17
+ 204 52 204 52 230 52 c 4,18,19
+ 274 52 274 52 296 85 c 132,-1,20
+ 318 118 318 118 318 198 c 4,21,22
+ 318 266 318 266 302 315 c 5,23,24
+ 236 258 236 258 156 258 c 4,25,26
+ 122 258 122 258 95 272 c 132,-1,27
+ 68 286 68 286 52 311 c 132,-1,28
+ 36 336 36 336 36 364 c 4,29,30
+ 36 395 36 395 54 423 c 132,-1,31
+ 72 451 72 451 104 466.5 c 132,-1,32
+ 136 482 136 482 177 482 c 4,33,34
+ 270 482 270 482 334 419 c 5,35,36
+ 352 451 352 451 359 479 c 5,37,38
+ 360 479 360 479 396 479 c 5,39,40
+ 388 433 388 433 361 387 c 5,41,42
+ 408 320 408 320 408 224 c 4,43,44
+ 408 124 408 124 358.5 59.5 c 132,-1,45
+ 309 -5 309 -5 230 -5 c 4,0,1
+168 430 m 4,46,47
+ 128 430 128 430 105 411 c 132,-1,48
+ 82 392 82 392 82 361 c 4,49,50
+ 82 333 82 333 104 315.5 c 132,-1,51
+ 126 298 126 298 160 298 c 4,52,53
+ 224 298 224 298 286 356 c 5,54,55
+ 244 430 244 430 168 430 c 4,46,47
 EndSplineSet
 EndChar
 
@@ -93361,6 +93361,43 @@ SplineSet
  220 455 220 455 265 471 c 5,32,33
  265 563 265 563 244 606 c 132,-1,34
  223 649 223 649 177 649 c 4,25,26
+EndSplineSet
+EndChar
+
+StartChar: uni2C7B
+Encoding: 11387 11387 2601
+Width: 455
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+406 448 m 5,0,-1
+ 342 435 l 5,1,-1
+ 342 35 l 5,2,3
+ 342 34 342 34 406 22 c 5,4,-1
+ 406 0 l 5,5,-1
+ 45 0 l 5,6,-1
+ 45 121 l 5,7,8
+ 44 121 44 121 76 121 c 5,9,10
+ 76 122 76 122 90 46 c 5,11,12
+ 136 42 136 42 193 42 c 6,13,-1
+ 260 42 l 5,14,-1
+ 260 211 l 5,15,-1
+ 152 211 l 5,16,-1
+ 139 156 l 5,17,-1
+ 108 156 l 5,18,-1
+ 108 308 l 5,19,-1
+ 139 308 l 5,20,-1
+ 152 252 l 5,21,-1
+ 260 252 l 5,22,-1
+ 260 428 l 5,23,-1
+ 178 428 l 6,24,25
+ 112 428 112 428 70 424 c 5,26,-1
+ 50 338 l 5,27,-1
+ 18 338 l 5,28,-1
+ 24 470 l 5,29,-1
+ 406 470 l 5,30,-1
+ 406 448 l 5,0,-1
 EndSplineSet
 EndChar
 EndChars
