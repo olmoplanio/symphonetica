@@ -4,14 +4,14 @@ FullName: Laudosia-Literal
 FamilyName: Laudosia
 Weight: Book
 Copyright: Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
-Version: 1.10.00
+Version: 1.10.03
 ItalicAngle: -12
-UnderlinePosition: -50
+UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 800
 Descent: 224
 InvalidEm: 0
-sfntRevision: 0x2af80000
+sfntRevision: 0x2afb0000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1633360930
-ModificationTime: 1767084034
+ModificationTime: 1767393708
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5

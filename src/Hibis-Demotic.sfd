@@ -4,14 +4,14 @@ FullName: Demotic
 FamilyName: Hibis-Demotic
 Weight: Regular
 Copyright: Copyright 2025 Loud Coypu
-Version: 4.2
+Version: 1.10.03
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 800
 Descent: 224
 InvalidEm: 0
-sfntRevision: 0x00043334
+sfntRevision: 0x2afb0000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485360726
-ModificationTime: 1762247134
+ModificationTime: 1767393658
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -3840,7 +3840,7 @@ GaspTable: 1 65535 15 1
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
-NameList: Kemic
+NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0

@@ -4,14 +4,14 @@ FullName: Hiero
 FamilyName: Hibis-Hiero
 Weight: Regular
 Copyright: Copyright 2025 Loud Coypu\nCopyright 2022 The Noto Project Authors
-Version: 6.0
+Version: 1.10.03
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 800
 Descent: 224
 InvalidEm: 0
-sfntRevision: 0x00060000
+sfntRevision: 0x2afb0000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485360726
-ModificationTime: 1746687172
+ModificationTime: 1767393616
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
