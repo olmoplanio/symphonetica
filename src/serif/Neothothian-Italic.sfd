@@ -6,7 +6,7 @@ Weight: Book
 Copyright: Symphonetica adjustments: copyright (c) 2025 Loud Coypu.\nBased on LiberationSerif 2.1.5: digitized data copyright (c) 2010 Google Corporation.\nCopyright (c) 2012 Red Hat, Inc.
 Version: 1.0.0
 ItalicAngle: -16
-UnderlinePosition: -43
+UnderlinePosition: -125
 UnderlineWidth: 50
 Ascent: 819
 Descent: 205
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1123398000
-ModificationTime: 1760509045
+ModificationTime: 1767393800
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3791,7 +3791,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1750 50 15
+WinInfo: 1750 50 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 -613545 262144 131072 87381 481280 -1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -80792,11 +80792,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-149 580 m 5
- 148 580 148 580 158 635 c 5
- 758 635 l 5
- 758 634 758 634 748 580 c 5
- 149 580 l 5
+149 580 m 5,0,1
+ 148 580 148 580 158 635 c 5,2,-1
+ 758 635 l 5,3,4
+ 758 634 758 634 748 580 c 5,5,-1
+ 149 580 l 5,0,1
 EndSplineSet
 Refer: 625 1096 N 1 0 0 1 0 0 2
 EndChar
@@ -80808,11 +80808,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-134 580 m 1
- 144 635 l 1
- 502 635 l 5
- 502 634 502 634 493 580 c 5
- 134 580 l 1
+134 580 m 1,0,-1
+ 144 635 l 1,1,-1
+ 502 635 l 5,2,3
+ 502 634 502 634 493 580 c 5,4,-1
+ 134 580 l 1,0,-1
 EndSplineSet
 Refer: 88 117 N 1 0 0 1 0 0 2
 EndChar
